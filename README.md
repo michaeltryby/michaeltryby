@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeltryby&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltryby&layout=compact&theme=dark)]()
